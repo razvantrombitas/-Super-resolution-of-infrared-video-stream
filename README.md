@@ -1,1 +1,1 @@
-# -Super-resolution-of-infrared-video-stream
+# Super-resolution of infrared video stream
